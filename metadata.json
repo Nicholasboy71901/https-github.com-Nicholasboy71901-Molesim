@@ -1,0 +1,5 @@
+{
+  "name": "MolSim AI",
+  "description": "An AI-powered molecular simulation and visualization platform. Talk to your molecules, run virtual simulations, and analyze trajectories using natural language instead of complex command-line scripts.",
+  "requestFramePermissions": []
+}
